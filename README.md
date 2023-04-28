@@ -12,6 +12,12 @@ My name is MD. Basim Al Zabir Shammo and I am currently studying Information and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlZabir08&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlZabir08&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlZabir08&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AlZabir08&icon=0&color=5)](https://visitcount.itsvg.in)
 
