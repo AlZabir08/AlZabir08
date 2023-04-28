@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is MD. Basim Al Zabir Shammo and I am currently studying Information and Communication Engineering at Pabna University of Science and Technology. I have knowledge of several programming languages, including HTML, C, and Python. I have worked with pandas and scikit-learn, and have a basic understanding of Artificial Intelligence. I am currently learning about Machine Learning to gain a deeper understanding of AI research and development. Additionally, I have experience with Arduino.<br><br>In addition to my studies, I work full-time as a Technology Manager at Wastech Bangladesh.
+My name is MD. Basim Al Zabir Shammo and I am currently studying Information and Communication Engineering at Pabna University of Science and Technology. I have knowledge of several programming languages, including HTML, C, C++ and Python. I have worked with pandas and scikit-learn, and have a basic understanding of Artificial Intelligence. I am currently learning about Machine Learning to gain a deeper understanding of AI research and development. Additionally, I have experience with Arduino.<br><br>In addition to my studies, I work full-time as a Technology Manager at Wastech Bangladesh.
 
 
 ## 🌐 Socials:
